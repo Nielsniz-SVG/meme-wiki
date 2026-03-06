@@ -1,4 +1,4 @@
-Copyright (c) 2026 [Votre Nom]. All rights reserved.
+Copyright (c) 2026 [Nielsniz-SVG]. All rights reserved.
 
 This software and associated files are the proprietary property of [Votre Nom].
 No part of this software may be reproduced, distributed, or transmitted in any
